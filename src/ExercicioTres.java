@@ -3,7 +3,7 @@ public class ExercicioTres {
 	
 	public static void main(String[] args) {
 		
-		int nUm = 2;
+		int nUm = 0;
 		
 		if (nUm> 0) {
 			System.out.println("1");
